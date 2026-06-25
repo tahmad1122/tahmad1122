@@ -32,6 +32,5 @@ Actively looking for **SDET / QA Automation Engineer** opportunities — open to
 ## 📫 Reach me
 
 - Email: t.ahmad2120@gmail.com
-- Phone: +91 9535448403
 
 ⭐ Check out my pinned repositories below for hands-on examples of my framework design and API automation work.
